@@ -1,0 +1,6 @@
+{
+  "name": "ZuriMatch",
+  "description": "Plateforme internationale de rencontres premium et sociale pour les célibataires africains, la diaspora et le monde entier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
